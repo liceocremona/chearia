@@ -6,9 +6,6 @@ secret
 venv
 .env
 __pycache__
-<<<<<<< HEAD
 venv
 client/backend/test/*.svg
 .env_bak
-=======
->>>>>>> 70944051a35d1a47d3abba79cde895989c540034
