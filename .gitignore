@@ -3,3 +3,5 @@ package-lock.json
 secret
 __pycache__
 venv
+client/backend/test/*.svg
+.env_bak
