@@ -9,3 +9,4 @@ __pycache__
 venv
 client/backend/test/*.svg
 .env_bak
+traefik
