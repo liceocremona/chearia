@@ -4,3 +4,5 @@ secret
 
 __pycache__
 venv
+traefik
+.env
