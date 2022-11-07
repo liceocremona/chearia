@@ -10,3 +10,7 @@ traefik
 secret.h
 secret
 venv
+
+build
+_docs
+d.sh
