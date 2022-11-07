@@ -4,13 +4,13 @@
 
 - dato:
   - scritto secono l'ID presente nella sezione metadata nel DB
-  - itwork
-    CO
-	altitude
-	humidity
-	ozone
-	pressure
-	temperature
+  - itwork \n
+    CO\n
+	altitude\n
+	humidity\n
+	ozone\n
+	pressure\n
+	temperature\n
 	
 - f(y)
   - in cosa è in funzione
