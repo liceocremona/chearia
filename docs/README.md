@@ -1,7 +1,17 @@
 # Docs
 
-Documentazione del progetto chearia<br>
-sito: [https://progettochearia.it](https://progettochearia.it)<br>
-[Diagrams](diagrams): Diagrammi di flusso del codice <br>
-[Hardware](hardware): Schematiche e documentazione della parte hardware come arduino  <br>
+Documentazione del progetto CHeArIA\
+website: [https://progettochearia.it](https://progettochearia.it)\
+
+[Diagrams](diagrams): Diagrammi di flusso del codice \
+[Hardware](hardware): Schematiche e documentazione della parte hardware come arduino  \
 [Backend](backend): Desscrizione delle API http e del funzionamento del server 
+
+### Repository
+#### CHeArIA
+- [chearia-box](https://github.com/liceocremona/chearia-box)
+- [chearia-backend](https://github.com/liceocremona/chearia-backend)
+- [chearia-frontend](https://github.com/liceocremona/chearia-frontend)
+- [chearia-data_analyses](https://github.com/liceocremona/chearia-data_analyses)
+#### Olimpiadi di robotica 2020/21
+- [olimpiadirobotica21-docs](https://github.com/liceocremona/olimpiadirobotica21-docs)
