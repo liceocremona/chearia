@@ -6,7 +6,7 @@
 - ### web.progettochearia.it
   - risorse: /srv/www/chearia/public/webapp
   - descrizione: Webapp dinamica con client per vedere i grafici e i dati raccolti
-- ### storage.progettoceharia.it
+- ### storage.progettochearia.it
    - risorse: /srv/www/media
    - descrizione: Storage destinato in teoria alle foto
  - ### api.progettochearia.it

@@ -1,11 +1,11 @@
 # Docs
 
 Documentazione del progetto CHeArIA\
-website: [https://progettochearia.it](https://progettochearia.it)\
+Website: [https://progettochearia.it](https://progettochearia.it)
 
 [Diagrams](diagrams): Diagrammi di flusso del codice \
 [Hardware](hardware): Schematiche e documentazione della parte hardware come arduino  \
-[Backend](backend): Desscrizione delle API http e del funzionamento del server 
+[Backend](backend): Descrizione delle API http e del funzionamento del server 
 
 ### Repository
 #### CHeArIA
