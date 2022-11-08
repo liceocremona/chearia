@@ -1,3 +1,3 @@
 #!/bin/bash
 git pull
-markdown-folder-to-html
+markdown-folder-to-html .
