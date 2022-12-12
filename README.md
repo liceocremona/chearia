@@ -1,9 +1,8 @@
 # Docs
 
 Documentazione del progetto CHeArIA\
-Website: [https://progettochearia.it](https://progettochearia.it)
-
-
+Project site: [https://progettochearia.it](https://progettochearia.it) \
+View data: [https://web.progettochearia.it](https://web.progettochearia.it) 
 
 [Diagrams](diagrams): Diagrammi di flusso del codice \
 [Hardware](hardware): Schematiche e documentazione della parte hardware come arduino  \
