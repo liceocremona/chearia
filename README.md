@@ -2,7 +2,9 @@
 
 Documentazione del progetto CHeArIA\
 Project site: [https://progettochearia.it](https://progettochearia.it) \
-View data: [https://web.progettochearia.it](https://web.progettochearia.it) 
+View data: [https://web.progettochearia.it](https://web.progettochearia.it) \
+API docs: [https://api.progettochearia.it](https://api.progettochearia.it/v1/docs)
+
 
 [Diagrams](diagrams): Diagrammi di flusso del codice \
 [Hardware](hardware): Schematiche e documentazione della parte hardware come arduino  \
